@@ -1,0 +1,64 @@
+/* || general styles */
+
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    background-image: url(bk.webp);
+    background-size: cover;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+    color: aliceblue;
+}
+
+h1, h2 {
+  font-family: Forte, cursive;
+  color: aliceblue;
+  font-size: 25%;
+}
+
+/* header styles */
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  color: aliceblue;
+}
+
+header p {
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+  color: aliceblue;
+  text-decoration: underline;
+  width: 675px;
+  padding-left: 100px;
+}
+
+/* section styles */
+
+section article {
+  width: 33%;
+  float: left;
+  color: aliceblue;
+}
+
+section p {
+  margin: 5px 0;
+  color: aliceblue;
+}
+
+section ul {
+  margin-top: 0;
+  color: aliceblue;
+}
+
+h2 {
+  font-size: 200%;
+  letter-spacing: 2px;
+  margin-bottom: 9px;
+  background: linear-gradient(yellow,red);
+  -webkit-background-clip: text;
+  color: transparent;  
+}

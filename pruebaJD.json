@@ -1,0 +1,39 @@
+{
+  "titulo" : "Juan David",
+  "docente" : "Jesus Rubio",
+  "tema" : "JSON - Desarrollo de Aplicaciones en Lenguajes de última Generación",
+  "secretBase" : "Lenguajes de Última Generación",
+  "active" : true,
+  "members" : [
+    {
+      "nombre" : "Juan David Moreno",
+      "edad" : 23,
+      "datos" : "JDM",
+      "caracteristicas" : [
+        "Analista QA",
+        "Estudiante",
+        "Motos"
+      ]
+    },
+    {
+      "nombre": "Nicolas Urbano",
+      "edad": 25,
+      "datos": "NN7",
+      "caracteristicas": [
+        "Soporte",
+        "Universitaria",
+        "Computadores"
+      ]
+    },
+    {
+      "nombre": "Deimer Orjuela",
+      "edad": 30,
+      "datos": "Viejo",
+      "caracteristicas": [
+        "Desarrollo",
+        "AS400",
+        "Viejo Deimer"
+      ]
+    }
+  ]
+}
