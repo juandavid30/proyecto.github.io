@@ -49,6 +49,13 @@ section p {
   color: aliceblue;
 }
 
+section a {
+  margin: 5px 0;
+  color: aliceblue;
+  border: solid;
+  font-size: x-large;
+}
+
 section ul {
   margin-top: 0;
   color: aliceblue;
